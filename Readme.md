@@ -53,21 +53,9 @@ Become a Full Stack Developer building scalable full-stack applications.
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=java,spring,react,html,css,bootstrap,javascript,mysql,mongodb,git,github,vscode,eclipse,idea,aws&perline=8"/>
+<img src="https://skillicons.dev/icons?i=java,spring,react,html,css,bootstrap,javascript,mysql,mongodb,git,github,vscode,aws&perline=5"/>
 
 </p>
-
----
-
-# 📊 GitHub Stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=tarundb00&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tarundb00&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
 
 ---
 
@@ -81,25 +69,22 @@ Become a Full Stack Developer building scalable full-stack applications.
 
 ---
 
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=tarundb00&theme=tokyonight&row=1&column=7"/>
-
-</div>
-
----
-
 # 📈 Contribution Graph
 
 <div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=tarundb00&theme=tokyo-night"/>
-
+ <img src="https://ghchart.rshah.org/tarundb00" alt="GitHub Contribution Chart" />
 </div>
 
 ---
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tarundb00&theme=github-dark&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://ghchart.rshah.org/40c463/tarundb00" alt="GitHub Contributions" />
+</p>
 
 # 📚 Currently Learning
 
