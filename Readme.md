@@ -30,23 +30,18 @@
 
 🎯 Goal
 
-Become a Software Engineer building scalable full-stack applications.
+Become a Full Stack Developer building scalable full-stack applications.
 
-⚡ Fun Fact
-
-> I enjoy transforming ideas into real-world web applications.
-
----
 
 # 🌐 Connect With Me
 
 <p align="left">
 
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN/">
+<a href="https://www.linkedin.com/in/taruna-db/">
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
-<a href="mailto:YOURMAIL@gmail.com">
+<a href="mailto:tarunbasavaraj00@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail" />
 </a>
 
@@ -106,33 +101,6 @@ Become a Software Engineer building scalable full-stack applications.
 
 ---
 
-# 🚀 Featured Projects
-
-### 🍔 FOODIES
-Online Food Delivery Application
-
-React • Spring Boot • MySQL
-
----
-
-### 🌦️ Weather App
-
-Real-time Weather Application using React & Weather API
-
----
-
-### 🎓 Student Performance Finder
-
-Student Performance Prediction System
-
----
-
-### 🍽️ Canteen Management System
-
-Spring Boot + Thymeleaf + MySQL
-
----
-
 # 📚 Currently Learning
 
 ✔ Spring Boot
@@ -142,8 +110,6 @@ Spring Boot + Thymeleaf + MySQL
 ✔ REST APIs
 
 ✔ JWT Authentication
-
-✔ Docker
 
 ✔ AWS
 
