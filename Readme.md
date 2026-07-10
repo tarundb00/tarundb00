@@ -76,15 +76,6 @@ Become a Full Stack Developer building scalable full-stack applications.
 </div>
 
 ---
-## 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tarundb00&theme=github-dark&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://ghchart.rshah.org/40c463/tarundb00" alt="GitHub Contributions" />
-</p>
 
 # 📚 Currently Learning
 
