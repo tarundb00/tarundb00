@@ -41,9 +41,6 @@ Become a Full Stack Developer building scalable full-stack applications.
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
-<a href="mailto:tarunbasavaraj00@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" />
-</a>
 
 </p>
 
